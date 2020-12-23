@@ -15,7 +15,7 @@
   "types": "dist/types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/championswimmer/vuex-persist.git"
+    "url": "git+https://github.com/lukesnowden/vuex-persist.git"
   },
   "scripts": {
     "doc:clean": "rimraf docs",
@@ -78,6 +78,6 @@
     "flatted": "^3.0.5"
   },
   "peerDependencies": {
-    "vuex": ">=2.5"
+    "vuex": "*"
   }
 }
